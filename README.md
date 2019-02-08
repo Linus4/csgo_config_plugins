@@ -7,12 +7,11 @@ in `server.cfg`, but you won't be able to record demos then.
 
 # Usage
 	
-Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)). You need at least the `b` (basic admin)
-and the `g` (changelevel) flags to use the plugins.
+Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)). You need at least the `b` (basic admin) and the `g` (changelevel) flags to use the plugins. Also, the `c` (kick) is recommended.
 
-Demos will be recorded automatically - name format is: `{TIME}_{MAP}` .
+Demos will be recorded automatically in the `csgo/` directory - name format is: `{TIME}_{MAP}` .
 
-Use `/setup` to get started ingame. Also check out the REAMDE-pages of both mods for more commands.
+Use `.setup` to get started ingame. Also check out the REAMDE-pages of both mods for more commands.
 
 Most important commands:
 
@@ -32,6 +31,6 @@ Most important commands:
 `/addons/sourcemod/plugins/disabled` to the parent directory.
 1. Install [Practice Mode](https://github.com/splewis/csgo-practice-mode).
 1. Start the CSGO-server.
-1. Download this repository as a ZIP archive and extract it into the `/csgo` directory of your CSGO-server or clone this repository.
+1. Download a release from the [releases](https://github.com/Linus4/csgo_config_plugins/releases) page and extract it in your `csgo/` directory.
 1. Fill in the fields marked with `FIXME` in `server.cfg`.
 1. Restart CSGO-server.
