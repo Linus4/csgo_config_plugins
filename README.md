@@ -7,11 +7,11 @@ in `server.cfg`, but you won't be able to record demos then.
 
 # Usage
 	
-Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)). You need at least the `b` (basic admin) and the `g` (changelevel) flags to use the plugins. Also, the `c` (kick) is recommended.
+Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)). You need at least the `b` (basic admin) and the `g` (changelevel) flags to use the plugins. Also, `c` (kick) is recommended.
 
 Demos will be recorded automatically in the `csgo/` directory - name format is: `{TIME}_{MAP}` .
 
-Use `.setup` to get started ingame. Also check out the REAMDE-pages of both mods for more commands.
+Use `.setup` to get started ingame. Also check out the README-pages of both mods for more commands.
 
 Most important commands:
 
