@@ -24,8 +24,8 @@ Most important commands:
 
 # Installation
 
-1. Install [Metamod](metamodsource.net) following [these instructions](https://wiki.alliedmods.net/Installing_Metamod:Source).
-1. Install [SourceMod](sourcemod.net) following [these instructions](https://wiki.alliedmods.net/Installing_SourceMod).
+1. Install [Metamod](https://metamodsource.net) following [these instructions](https://wiki.alliedmods.net/Installing_Metamod:Source).
+1. Install [SourceMod](https://sourcemod.net) following [these instructions](https://wiki.alliedmods.net/Installing_SourceMod).
 1. Install [PugSetup](https://github.com/splewis/csgo-pug-setup).
 1. Move `pugsetup_damageprint.smx`, `pugsetup_teamlocker.smx` and `pugsetup_teamnames.smx` from
 `/addons/sourcemod/plugins/disabled` to the parent directory.
