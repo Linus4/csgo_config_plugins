@@ -27,7 +27,7 @@ Most important commands:
 1. Install [Metamod](https://metamodsource.net) following [these instructions](https://wiki.alliedmods.net/Installing_Metamod:Source).
 1. Install [SourceMod](https://sourcemod.net) following [these instructions](https://wiki.alliedmods.net/Installing_SourceMod).
 1. Install [PugSetup](https://github.com/splewis/csgo-pug-setup).
-1. Move `pugsetup_damageprint.smx`, `pugsetup_teamlocker.smx` and `pugsetup_teamnames.smx` from
+1. Move `pugsetup_damageprint.smx` and `pugsetup_teamnames.smx` from
 `/addons/sourcemod/plugins/disabled` to the parent directory.
 1. Install [Practice Mode](https://github.com/splewis/csgo-practice-mode).
 1. Start the CSGO-server in order to create mod directories and files.
