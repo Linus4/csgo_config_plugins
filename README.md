@@ -32,6 +32,4 @@ Most important commands:
 1. Install [Practice Mode](https://github.com/splewis/csgo-practice-mode).
 1. Start the CSGO-server in order to create mod directories and files.
 1. Download a release from the [releases](https://github.com/Linus4/csgo_config_plugins/releases) page and extract it in your `csgo/` directory.
-1. Fill in the fields marked with `FIXME` in `server.cfg`.
 1. Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)) for SourceMod.
-1. Restart CSGO-server.
