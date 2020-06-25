@@ -34,3 +34,4 @@ Most important commands:
 1. Download a release from the [releases](https://github.com/Linus4/csgo_config_plugins/releases) page and extract it in your `csgo/` directory..
 1. Rename `server.cfg` to `nameofexecutable.cfg` and fix all FIXMEs in this file.
 1. Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)) for SourceMod.
+1. Optionally change where demos will be stored in [this file](https://github.com/Linus4/csgo_config_plugins/blob/master/cfg/sourcemod/pugsetup/pugsetup.cfg) and create the corresponding directory in your `csgo` directory.
