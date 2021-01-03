@@ -34,8 +34,8 @@ Most important commands:
 1. Download a release from the [releases](https://github.com/Linus4/csgo_config_plugins/releases) page and extract it in your `csgo/` directory..
 1. Rename `server.cfg` to `nameofexecutable.cfg` and fix all FIXMEs in this file.
 1. Install [Fix Warmup](https://github.com/Ilusion9/fix-warmup-csgo) (removes 1v1 arenas):
-	1. Copy file contents from `scripting/fix_warmup.sp` in the repository.
-	1. Paste file contents in the [sourcemod web compiler](http://www.sourcemod.net/compiler.php) and compile.
+	1. Download `scripting/fix_warmup.sp` in the repository.
+	1. Use this file in the [sourcemod web compiler](http://www.sourcemod.net/compiler.php) and compile.
 	1. Put `.smx` plugin file from the compiler in `csgo/addons/sourcemod/plugins` on the server.
 1. Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)) for SourceMod.
 1. Optionally change where demos will be stored in [this file](https://github.com/Linus4/csgo_config_plugins/blob/master/cfg/sourcemod/pugsetup/pugsetup.cfg) and create the corresponding directory in your `csgo` directory.
