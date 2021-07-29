@@ -39,3 +39,10 @@ Most important commands:
 	1. Put `.smx` plugin file from the compiler in `csgo/addons/sourcemod/plugins` on the server.
 1. Add admins following [these instructions](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)) for SourceMod.
 1. Optionally change where demos will be stored in [this file](https://github.com/Linus4/csgo_config_plugins/blob/master/cfg/sourcemod/pugsetup/pugsetup.cfg) and create the corresponding directory in your `csgo` directory.
+
+# Changes
+
+## New Maps
+
+Add new maps in `csgo_config_plugins/addons/sourcemod/configs/practicemode.cfg`, `csgo_config_plugins/addons/sourcemod/configs/adminmenu_maplist.ini` and`
+csgo_config_plugins/addons/sourcemod/configs/pugsetup/maps.txt`. Then reload map.
