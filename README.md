@@ -44,4 +44,4 @@ Most important commands:
 
 ## New Maps
 
-Add new maps in `csgo_config_plugins/addons/sourcemod/configs/practicemode.cfg`, `csgo_config_plugins/addons/sourcemod/configs/adminmenu_maplist.ini` and `csgo_config_plugins/addons/sourcemod/configs/pugsetup/maps.txt`. Then reload map.
+Add new maps in `addons/sourcemod/configs/practicemode.cfg`, `addons/sourcemod/configs/adminmenu_maplist.ini` and `addons/sourcemod/configs/pugsetup/maps.txt`. Then reload map.
