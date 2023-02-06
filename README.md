@@ -45,3 +45,7 @@ Most important commands:
 ## New Maps
 
 Add new maps in `addons/sourcemod/configs/practicemode.cfg`, `addons/sourcemod/configs/adminmenu_maplist.ini` and `addons/sourcemod/configs/pugsetup/maps.txt`. Then reload map.
+
+## Update mods
+
+Sometimes the server will crash after an update to the game and/or the meta- and sourcemod. To fix the problem, run `./<nameofexecutable> mods-update`.
